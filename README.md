@@ -3,7 +3,7 @@ Clothesline
 
 Developed on the StartupBus UK 2014.
 
-The code is ugly because I was the only developer and rushed finishing the MVP.
+The code is ugly because I was the only developer and rushed to complete the MVP.
 
 A live, working version of the site is available on http://clothesline.shop.tm. 
 
